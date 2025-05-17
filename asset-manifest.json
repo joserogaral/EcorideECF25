@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ejemplo/static/css/main.273a8999.css",
-    "main.js": "/ejemplo/static/js/main.d85140ab.js",
-    "static/js/453.5c012d9a.chunk.js": "/ejemplo/static/js/453.5c012d9a.chunk.js",
-    "static/media/image1.png": "/ejemplo/static/media/image1.b0c720424c21874aab08.png",
-    "static/media/Seguridad.png": "/ejemplo/static/media/Seguridad.f14cf9dd0ae20e5013f3.png",
-    "static/media/EcoRide.png": "/ejemplo/static/media/EcoRide.48f3f3ebb6740afd1b41.png",
-    "index.html": "/ejemplo/index.html",
-    "main.273a8999.css.map": "/ejemplo/static/css/main.273a8999.css.map",
-    "main.d85140ab.js.map": "/ejemplo/static/js/main.d85140ab.js.map",
-    "453.5c012d9a.chunk.js.map": "/ejemplo/static/js/453.5c012d9a.chunk.js.map"
+    "main.css": "/ECF0525Ecoride/static/css/main.273a8999.css",
+    "main.js": "/ECF0525Ecoride/static/js/main.36aab878.js",
+    "static/js/453.5c012d9a.chunk.js": "/ECF0525Ecoride/static/js/453.5c012d9a.chunk.js",
+    "static/media/image1.png": "/ECF0525Ecoride/static/media/image1.b0c720424c21874aab08.png",
+    "static/media/Seguridad.png": "/ECF0525Ecoride/static/media/Seguridad.f14cf9dd0ae20e5013f3.png",
+    "static/media/EcoRide.png": "/ECF0525Ecoride/static/media/EcoRide.48f3f3ebb6740afd1b41.png",
+    "index.html": "/ECF0525Ecoride/index.html",
+    "main.273a8999.css.map": "/ECF0525Ecoride/static/css/main.273a8999.css.map",
+    "main.36aab878.js.map": "/ECF0525Ecoride/static/js/main.36aab878.js.map",
+    "453.5c012d9a.chunk.js.map": "/ECF0525Ecoride/static/js/453.5c012d9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.273a8999.css",
-    "static/js/main.d85140ab.js"
+    "static/js/main.36aab878.js"
   ]
 }
